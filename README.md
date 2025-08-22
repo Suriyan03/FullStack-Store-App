@@ -123,3 +123,8 @@ To take this project to the next level, consider implementing the following feat
 - **Pagination**: Implement pagination for user and store lists to handle large datasets efficiently.  
 - **Advanced Analytics**: Enhance the admin and store owner dashboards with charts and graphs for visual data representation.  
 - **Testing**: Write unit and integration tests using a framework like Jest to ensure code quality and reliability.  
+
+### Sample Output
+
+#### Admin Dashboard
+(images/)
